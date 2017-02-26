@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 
 Route::any('/wechat', 'WechatController@serve');
-Route::get('', function ($string = null) {
+Route::get('/dingyan', function ($string = null) {
     \View::addExtension('html','php');
     return view('index');
 });

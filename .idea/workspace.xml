@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88119e8b-9b13-4e6a-b645-8fa0ef7acdab" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/view.php" afterPath="$PROJECT_DIR$/config/view.php" />
     </list>
     <ignored path="yimuya.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/build/index.html">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7386364">
-              <caret line="79" column="47" selection-start-line="79" selection-start-column="47" selection-end-line="79" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.5113636">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -49,10 +46,10 @@
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/WechatController.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/config/view.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/public/build/index.html" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
       </list>
     </option>
   </component>
@@ -310,13 +307,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <marker date="1488110520197" expanded="false" signature="9:390" placeholder="..." />
-            <marker date="1488110520197" expanded="true" signature="405:453" placeholder="..." />
-            <marker date="1488110520197" expanded="true" signature="423:452" placeholder="..." />
-            <marker date="1488110520197" expanded="true" signature="517:615" placeholder="..." />
-            <marker date="1488110520197" expanded="true" signature="548:614" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -367,13 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.91414946">
           <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6025437">
-          <caret line="25" column="3" selection-start-line="25" selection-start-column="0" selection-end-line="28" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -572,28 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30562347">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6818182">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          <folding>
-            <marker date="1488110520197" expanded="false" signature="9:390" placeholder="..." />
-            <marker date="1488110520197" expanded="true" signature="405:453" placeholder="..." />
-            <marker date="1488110520197" expanded="true" signature="423:452" placeholder="..." />
-            <marker date="1488110520197" expanded="true" signature="517:615" placeholder="..." />
-            <marker date="1488110520197" expanded="true" signature="548:614" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5113636">
@@ -632,8 +594,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/build/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7386364">
+        <state vertical-scroll-proportion="0.375">
           <caret line="79" column="47" selection-start-line="79" selection-start-column="47" selection-end-line="79" selection-end-column="47" />
+          <folding>
+            <marker date="1488111336849" expanded="true" signature="21:2217" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="30:219" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="255:879" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="435:488" placeholder="//..." />
+            <marker date="1488111336849" expanded="true" signature="528:600" placeholder="//..." />
+            <marker date="1488111336849" expanded="true" signature="678:866" placeholder="{...}" />
+            <marker date="1488111336849" expanded="true" signature="914:2209" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="929:2038" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="955:1027" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="981:1012" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1053:1069" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1099:1192" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1130:1177" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1225:2023" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1260:2004" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1287:1368" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1382:1472" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1412:1457" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1486:1575" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1514:1560" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1605:1688" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1702:1782" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1730:1767" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1796:1881" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1828:1866" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1895:1984" placeholder="..." />
+            <marker date="1488111336849" expanded="true" signature="1925:1969" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30562347">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6477273">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5113636">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
           <folding />
         </state>
       </provider>

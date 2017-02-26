@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    dump('welcome');
 });
 
 Route::any('/wechat', 'WechatController@serve');

@@ -1,0 +1,75 @@
+* {margin:0px;padding:0px;}
+body {background-color: yellow}
+/*-------------------------header--------------------*/
+div#header{
+    background-color: black;
+    display: block;
+    text-align:center;
+}
+
+p#header{
+    font-size: 18px;
+    font-style: normal;
+    color: white;
+    font-weight:bold;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+/*-------------------------fooder--------------------*/
+div#fooder{
+    text-align: center;
+}
+p#contact{
+    padding-top: 10px;
+}
+
+/*-------------------------maskLayer--------------------*/
+.testBg{
+ position: absolute;
+ top: 0;
+ background-color: #000;
+ filter:alpha(opacity=80); /* IE */
+ -moz-opacity:0.8; /* Moz + FF */
+ opacity: 0.8; /* 支持CSS3的浏览器（FF 1.5也支持）*/
+ display:none ;
+}
+.testBg {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width:200px;
+ border: 1px #ffc700 solid;
+ color: white;
+}
+
+/*-------------------image------------------------*/
+div#phone{
+    margin-top: 80px;
+    margin-left: 5px;
+}
+p#mobile{
+    font-size: 36px;
+    margin-left: 15%;
+}
+p#cell{
+    font-size: 36px;
+    margin-left: 25%;
+}
+
+div#address{
+    margin-top: 110px;
+    margin-left: 80%;
+}
+p#city{
+    font-size: 36px;
+    margin-left: 60%;
+}
+p#distinct{
+    font-size: 36px;
+    margin-left: 43%;
+}
+p#street{
+    font-size: 36px;
+    margin-left: 2%;
+}
